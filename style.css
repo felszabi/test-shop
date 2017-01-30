@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background-color: #efefef;
+}
+
+.my-title{
+  margin-top: 10px!important;
+}
+
+.container {
+  height: 60px;
+  border-bottom: 2px solid #ff8000;
+}
+
+.container header {
+  color: #ccc;
+}
+
+.btn-own {
+  background-color: #4eb634;
+  margin-top: 12px;
+}
+
+.btn-own:hover {
+  color: #fff!important;
+  background-color: #ccc!important;
+}
+
+.bg-green {
+  background-color: #76a930;
+}
